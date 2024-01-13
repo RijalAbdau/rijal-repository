@@ -4,3 +4,6 @@ PHP-FRAMEWORK
 VLOGS
 sql
 youtube
+framework javascript
+-laravel
+- angular
