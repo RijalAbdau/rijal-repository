@@ -6,3 +6,4 @@ sql
 youtube
 framework javascript
 -laravel
+- angular
