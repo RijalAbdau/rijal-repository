@@ -1,6 +1,9 @@
 Rencana Konten
 javascript
 PHP-FRAMEWORK
+-laravel
 VLOGS
 sql
 youtube
+framework javascript
+-angular
