@@ -6,4 +6,6 @@ VLOGS
 sql
 youtube
 framework javascript
--angular
+-laravel
+- angular
+
